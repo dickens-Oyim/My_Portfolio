@@ -1,5 +1,9 @@
 # Elly Dickens Oyim Portfolio
 
+## Live Portfolio
+
+[View the live portfolio on Vercel](https://portfolio-fawn-eta-3zp6fydl3r.vercel.app)
+
 ## About
 
 Welcome to my personal portfolio website.
